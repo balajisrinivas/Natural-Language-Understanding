@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Jan  2 22:19:40 2019
-@author: Krish.Naik
-"""
-
 import nltk
 
 paragraph =  """I have three visions for India. In 3000 years of our history, people from all over 
